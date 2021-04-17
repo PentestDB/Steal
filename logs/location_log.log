@@ -1,0 +1,73 @@
+[Wed Apr 14 12:27:57 2021] PHP 7.4.11 Development Server (http://localhost:8767) started
+[Wed Apr 14 12:29:00 2021] [::1]:44990 Accepted
+[Wed Apr 14 12:29:00 2021] [::1]:44990 [200]: (null) /
+[Wed Apr 14 12:29:00 2021] [::1]:44990 Closing
+[Wed Apr 14 12:29:01 2021] [::1]:44992 Accepted
+[Wed Apr 14 12:29:01 2021] [::1]:44994 Accepted
+[Wed Apr 14 12:29:01 2021] [::1]:44994 [200]: (null) /location.js
+[Wed Apr 14 12:29:01 2021] [::1]:44994 Closing
+[Wed Apr 14 12:29:01 2021] [::1]:44992 [200]: (null) /client.min.js
+[Wed Apr 14 12:29:01 2021] [::1]:44992 Closing
+[Wed Apr 14 12:29:01 2021] [::1]:44996 Accepted
+[Wed Apr 14 12:29:01 2021] [::1]:44996 [200]: (null) /loc.js
+[Wed Apr 14 12:29:01 2021] [::1]:44996 Closing
+[Wed Apr 14 12:29:04 2021] [::1]:44998 Accepted
+[Wed Apr 14 12:29:04 2021] [::1]:44998 [200]: POST /info.php
+[Wed Apr 14 12:29:04 2021] [::1]:44998 Closing
+[Wed Apr 14 12:30:28 2021] [::1]:45000 Accepted
+[Wed Apr 14 12:30:28 2021] [::1]:45000 [200]: POST /result.php
+[Wed Apr 14 12:30:28 2021] [::1]:45000 Closing
+[Wed Apr 14 12:31:00 2021] [::1]:45002 Accepted
+[Wed Apr 14 12:31:00 2021] [::1]:45002 [200]: POST /
+[Wed Apr 14 12:31:00 2021] [::1]:45002 Closing
+[Wed Apr 14 12:31:29 2021] [::1]:45004 Accepted
+[Wed Apr 14 12:31:29 2021] [::1]:45004 [200]: POST /
+[Wed Apr 14 12:31:29 2021] [::1]:45004 Closing
+[Wed Apr 14 12:31:30 2021] [::1]:45006 Accepted
+[Wed Apr 14 12:31:30 2021] [::1]:45008 Accepted
+[Wed Apr 14 12:31:30 2021] [::1]:45006 [200]: POST /location.js
+[Wed Apr 14 12:31:30 2021] [::1]:45006 Closing
+[Wed Apr 14 12:31:30 2021] [::1]:45008 [200]: POST /loc.js
+[Wed Apr 14 12:31:30 2021] [::1]:45008 Closing
+[Wed Apr 14 12:31:30 2021] [::1]:45010 Accepted
+[Wed Apr 14 12:31:30 2021] [::1]:45010 [200]: POST /client.min.js
+[Wed Apr 14 12:31:30 2021] [::1]:45010 Closing
+[Wed Apr 14 12:31:41 2021] [::1]:45012 Accepted
+[Wed Apr 14 12:31:41 2021] PHP Notice:  Undefined index: cpuname in /github/Storm-Breaker/getloc/weather/info.php on line 8
+[Wed Apr 14 12:31:41 2021] [::1]:45012 [200]: POST /info.php
+[Wed Apr 14 12:31:41 2021] [::1]:45012 Closing
+[Wed Apr 14 12:32:06 2021] [::1]:45014 Accepted
+[Wed Apr 14 12:32:06 2021] [::1]:45014 [200]: POST /
+[Wed Apr 14 12:32:06 2021] [::1]:45014 Closing
+[Wed Apr 14 12:32:07 2021] [::1]:45016 Accepted
+[Wed Apr 14 12:32:07 2021] [::1]:45018 Accepted
+[Wed Apr 14 12:32:07 2021] [::1]:45016 [200]: POST /location.js
+[Wed Apr 14 12:32:07 2021] [::1]:45020 Accepted
+[Wed Apr 14 12:32:07 2021] [::1]:45018 [200]: POST /loc.js
+[Wed Apr 14 12:32:07 2021] [::1]:45016 Closing
+[Wed Apr 14 12:32:07 2021] [::1]:45020 [200]: POST /client.min.js
+[Wed Apr 14 12:32:07 2021] [::1]:45018 Closing
+[Wed Apr 14 12:32:07 2021] [::1]:45020 Closing
+[Wed Apr 14 12:32:10 2021] [::1]:45022 Accepted
+[Wed Apr 14 12:32:10 2021] PHP Notice:  Undefined index: cpuname in /github/Storm-Breaker/getloc/weather/info.php on line 8
+[Wed Apr 14 12:32:10 2021] [::1]:45022 [200]: POST /info.php
+[Wed Apr 14 12:32:10 2021] [::1]:45022 Closing
+[Wed Apr 14 12:32:10 2021] [::1]:45024 Accepted
+[Wed Apr 14 12:32:10 2021] [::1]:45024 [200]: POST /
+[Wed Apr 14 12:32:10 2021] [::1]:45024 Closing
+[Wed Apr 14 12:32:13 2021] [::1]:45026 Accepted
+[Wed Apr 14 12:32:13 2021] [::1]:45026 [200]: POST /location.js
+[Wed Apr 14 12:32:13 2021] [::1]:45026 Closing
+[Wed Apr 14 12:32:13 2021] [::1]:45028 Accepted
+[Wed Apr 14 12:32:13 2021] [::1]:45028 [200]: POST /client.min.js
+[Wed Apr 14 12:32:13 2021] [::1]:45028 Closing
+[Wed Apr 14 12:32:13 2021] [::1]:45030 Accepted
+[Wed Apr 14 12:32:13 2021] [::1]:45030 [200]: POST /loc.js
+[Wed Apr 14 12:32:13 2021] [::1]:45030 Closing
+[Wed Apr 14 12:32:18 2021] [::1]:45032 Accepted
+[Wed Apr 14 12:32:18 2021] [::1]:45032 [200]: POST /result.php
+[Wed Apr 14 12:32:18 2021] [::1]:45032 Closing
+[Wed Apr 14 12:32:23 2021] [::1]:45034 Accepted
+[Wed Apr 14 12:32:23 2021] PHP Notice:  Undefined index: cpuname in /github/Storm-Breaker/getloc/weather/info.php on line 8
+[Wed Apr 14 12:32:23 2021] [::1]:45034 [200]: POST /info.php
+[Wed Apr 14 12:32:23 2021] [::1]:45034 Closing
