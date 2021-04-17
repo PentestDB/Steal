@@ -290,7 +290,7 @@ def location():
   try:
 
     temp = ""
-    input_loc = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"STORM-BREAKER"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.WHITE+"GET-LOC"+Fore.RED+"/"+Fore.BLUE+"Select-Template"+Fore.RED+"""]
+    input_loc = input(Fore.RED+" ┌─["+Fore.LIGHTGREEN_EX+"BKH474-TCE"+Fore.BLUE+"~"+Fore.WHITE+"@HOME"+Fore.RED+"/"+Fore.WHITE+"GET-LOC"+Fore.RED+"/"+Fore.BLUE+"Select-Template"+Fore.RED+"""]
  └──╼ """+Fore.WHITE+"$ ")
 
 
