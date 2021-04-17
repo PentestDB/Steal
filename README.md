@@ -1,4 +1,3 @@
-# Steal
 $ git clone https://github.com/blackhack474-doc/Steal.git
 $ cd Steal
 $ sudo bash linux-installer.sh
