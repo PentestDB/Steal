@@ -1,5 +1,5 @@
 # Edit File config.json
-- nano comfig.json 
+- nano config.json 
 - {"ngrok": "Token ngrok"}
 # About
 - Social Phishing Device Smart phone and Computer
