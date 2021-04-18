@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/blackhack474-doc/Steal/blob/main/panel.png"></p>
 # Edit File config.json
 - nano config.json 
 - {"ngrok": "Token ngrok"}
