@@ -1,3 +1,6 @@
+# Edit File config.json
+- nano comfig.json 
+- {"ngrok": "Token ngrok"}
 # About
 - Social Phishing Device Smart phone and Computer
 - Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
