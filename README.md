@@ -10,12 +10,13 @@
 
 <p align="center"><img src="https://github.com/blackhack474-doc/Steal/blob/main/panel.png"></p>
 
-# Edit File config.json
-* nano config.json 
-* {"ngrok": "Token ngrok"}
 # About
 * Social Phishing Device Smart phone and Computer
 * Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
+
+# Edit File config.json
+* nano config.json 
+* {"ngrok": "Token ngrok"}
 # Install KaliLinux
 * $ git clone https://github.com/blackhack474-doc/Steal.git
 * $ cd Steal
